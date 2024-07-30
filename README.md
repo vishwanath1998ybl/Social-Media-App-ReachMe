@@ -1,5 +1,3 @@
-# Social-Media-App-ReachMe
-Social-Media-App-ReachMe
 # Social Media App - ReachMe
 
 Welcome to ReachMe, a vibrant Social Media Application for Android designed to keep you connected with friends and share your moments effortlessly.
